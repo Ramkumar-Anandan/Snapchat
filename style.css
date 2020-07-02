@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+
+
+* {
+        padding: 0;
+    margin: 0;
+    text-decoration: none;
+    
+}
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#logo img{
+    height: 1.5em;
+    width: 1.5em;
+    align-items: center;
+}
+nav{
+    background-color: white;
+    padding-top: 1.5em;
+    align-items: center;
+    padding-left: 30em;
+    padding-right: 30em;
+
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
+    
+  
+}
+nav ul li{
+    font-size: 2em;
+    font-weight: 900;
+}
+.nav-link{
+    color: black;
+}
+
+
+.footer{
+    color:white;
+}
+
+.header h1{
+    text-align: center;
+    background-color: yellow;
+    font-size: 7em;
+    font-weight: 1500;
+    
+padding: 100px;
+}
+#LCR {
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    text-align: center;
+    font-size: 2em;
+    
+  
+    
+}
+
+#img img{
+    height: 100%;
+    width: 100%;
+    background: yellow;
+}
+#watchnow {
+    background: yellow;
+    padding: 15em;
+    font-weight: bold;
+}
+.button-link {
+    background: white;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    margin: 0 32em;
+    border-radius: 38%;
+   
+    
+}
+#sec{
+    background: yellow;
+}
+
+.last{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    font-size: 2em;
+    margin: 2em;
+    font-size: 2em;
+
+}
+
+footer ul{
+    display: flex;
+    flex-direction: row;
+    padding top: 2em;
+    list-style :none;
+   background: black;
+  align-items: center;
+    font-size: 2em;
+    text-align: center;
+}
+footer ul a {
+    color:white;
+    margin: 0 20px;
+    padding-left: 7em;
+    padding-top: 1.5em;
+}
+.light{
+
+    color: rgba(0, 0, 0, 0.5)
+    
+}
+,last form{
+    font-size: 10em;
+    tab-size: 5em;
+}
+#list{
+    width: 10em;
+}
+
+select{
+height: 2.5em;
+width: 12em;   
+font-size: 1em; 
+color: rgba(0, 0, 0, 0.5)
+}
+.text {
+    font-size: 1.5em;
+    font-weight: 500;
+}
